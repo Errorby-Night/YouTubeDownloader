@@ -2,7 +2,7 @@ import pytube as pyt
 import time
 import os
 from src import printcolors as pc
-from src import artwork
+from src import ascii
 
 def downloader():
     link = str(input("Enter the YouTube link:\n"))
@@ -30,7 +30,7 @@ def downloader():
     print(" is finished being downloaded.\n")
 
 def mainitis():
-    pc.printout(artwork.ascii_art, pc.YELLOW)
+    pc.printout(ascii.ascii_art, pc.YELLOW)
     print("\n")
     a = true
     while(a):
