@@ -32,7 +32,7 @@ def downloader():
 def mainitis():
     pc.printout(ascii.ascii_art, pc.YELLOW)
     print("\n")
-    a = true
+    a = True
     while(a):
         downloader()
         if(os.name == "posix"):
@@ -41,5 +41,5 @@ def mainitis():
             os.system("cls")
         choice = input(str("Do you wish to continue?(Y/N):"))
         if(choice == 'N' or choice == 'n'):
-            a = false
+            a = False
 mainitis()
