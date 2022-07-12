@@ -7,3 +7,22 @@ This is a tool to download YouTube videos.
 <img align="center" src="src/logo.png" width="900">
 </p>
 
+## Installation ⚙️
+
+1. Fork/Clone/Download this repo
+    `git clone https://github.com/Errorby-Night/YouTubeDownloader`
+    
+2. Navigate to the directory
+
+
+3. Run `pip install -r requirements.txt`
+
+
+4. Run the main.py script `python3 main.py`
+
+
+5. Enter the YouTube video link
+
+
+6. Press Enter and wait for the magic to happen
+
