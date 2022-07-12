@@ -42,3 +42,4 @@ def mainitis():
         choice = input(str("Do you wish to continue?(Y/N):"))
         if(choice == 'N' or choice == 'n'):
             a = false
+mainitis()
