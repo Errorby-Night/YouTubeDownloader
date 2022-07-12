@@ -1,7 +1,6 @@
 import pytube as pyt
 import time
 import os
-from sqlalchemy import false, true
 from src import printcolors as pc
 from src import artwork
 
