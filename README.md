@@ -4,6 +4,6 @@
 This is a tool to download YouTube videos.
 
 <p align="center">
-<img align="center" src="src/logo.jpg" width="900">
+<img align="center" src="src/logo.png" width="900">
 </p>
 
