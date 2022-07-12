@@ -28,6 +28,7 @@ def downloader():
     print("\n")
     print(title, end='')
     print(" is finished being downloaded.\n")
+    time.sleep(5)
 
 def mainitis():
     pc.printout(ascii.ascii_art, pc.YELLOW)
